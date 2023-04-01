@@ -1,0 +1,46 @@
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.flex {
+  display: flex;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+}
+
+.img-box1,
+.img-box2,
+.img-box3,
+.img-box4 {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+}
+
+.img-box1 {
+  background-image: url('../images/5t5.webp');
+}
+
+.img-box2 {
+  background-image: url('../images/hzyr.jpg');
+}
+
+.img-box3 {
+  background-image: url('../images/dqyqw.png');
+}
+
+.img-box4 {
+  background-image: url('../images/fhh.gif');
+}
